@@ -1,4 +1,4 @@
-![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/82bc242c-6151-4079-9095-050bdfc8f569)# Credit-Risk-Analysis-IDX-Partner-Project
+# Credit-Risk-Analysis-IDX-Partner-Project
  
 ## Membuat model untuk memprediksi credit risk
 
@@ -10,6 +10,12 @@ Sebagai Data Scientist di ID/X Partners, saya terlibat dalam proyek dari perusah
 ![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/26dc710b-eb34-49b2-babc-ab235285e363)
 
 Kolom 'loan_status' bernilai lebih dari 2 nilai unik sehingga akan dibagi menjadi 'good_loan' untuk pinjaman yang dianggap aman dan 'bad_loan' untuk yang berisiko, dengan tujuan utama mencapai keakuratan dan efisiensi dalam pengelolaan risiko kredit.
+
+![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/bdd38c4a-6500-433e-9e91-9624e499132c)
+
+
+![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/0ddbd0d2-ccc9-414b-9589-0e7f8002e7b6)
+
 
 # Business Recomendation
 
