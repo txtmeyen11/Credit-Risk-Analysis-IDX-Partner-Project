@@ -11,7 +11,7 @@ Sebagai Data Scientist di ID/X Partners, saya terlibat dalam proyek dari perusah
 
 Kolom 'loan_status' bernilai lebih dari 2 nilai unik sehingga akan dibagi menjadi 'good_loan' untuk pinjaman yang dianggap aman dan 'bad_loan' untuk yang berisiko, dengan tujuan utama mencapai keakuratan dan efisiensi dalam pengelolaan risiko kredit.
 
-![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/bdd38c4a-6500-433e-9e91-9624e499132c)
+![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/82df0b9b-b07c-4be0-8ebb-18a03e2e10c0)
 
 
 ![image](https://github.com/txtmeyen11/Credit-Risk-Analysis-IDX-Partner-Project/assets/126081314/0ddbd0d2-ccc9-414b-9589-0e7f8002e7b6)
